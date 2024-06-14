@@ -8,7 +8,7 @@ st.set_page_config(page_title="Riesgo Actuarial", page_icon="🌍")
 
 def main():
     st.title("Riesgo Actuarial")
-    st.image("~images\Actuary.jpg")
+    st.image("images/Actuary.jpg")
     st.write("El enfoque del siguiente riesgo está relacionado con todo lo que tiene que ver con la parte de la estimación de reservas en salud. Es decir que comprende las normas que le apliquen, como lo son las siguientes:")
     
     st.markdown("[Visita la documentación correspondiente](https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=82267&dt=S)")
